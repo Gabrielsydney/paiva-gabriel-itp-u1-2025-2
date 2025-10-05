@@ -53,7 +53,9 @@
 - ✅ Problema 3: A construção da ponte
 - ✅ Problema 4: Em busca do tesouro perdido
 ## 🎯 Principais Aprendizados
-[Reflita sobre os principais conceitos aprendidos na U1]
+- Compilar códigos;
+- Execução de códigos no terminal com a linguagem C;
+- Estrutura da línguagem(sintaxe);
 ## 🔧 Ambiente de Desenvolvimento
 - **SO**: Windows
 - **Compilador**: GCC versão 15.2.0
