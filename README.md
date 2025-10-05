@@ -3,15 +3,18 @@
 **Matrícula**: 20250052853  
 **Período**: 2025.2  
 ## 📁 Estrutura do Projeto
-- `projeto/`: Projeto principal da unidade // NÃO MODIFICADO
-- `listas/`: Soluções das listas de exercícios // NÃO MODIFICADO
-- `README.md`: Este arquivo // NÃO MODIFICADO
+- `projeto/`: Projeto principal da unidade 
+- `listas/`: Soluções das listas de exercícios 
+- `README.md`: Este arquivo 
 ## 🚀 Projeto: SISTEMA DE PONTO POR IDENTIFICAÇÃO(NÚMERO ÚNICO)
 **Descrição**: Registra a entrada  e saída dos funcionários de uma empresa, além de armazenar as suas faltas.    
-**Repositório**: [Link para repositório público] // NÃO MODIFICADO    
+**Repositório**: https://github.com/Gabrielsydney/paiva-gabriel-itp-u1-2025-2   
 **Vídeo de Demonstração**: [Link para o vídeo] // NÃO MODIFICADO    
 ### Funcionalidades Implementadas:
-- [Lista das principais funcionalidades] // NÃO MODIFICADO
+- Apresenta uma barra de menu com funcionalidades ao usuário;
+- Solicita o nome e o identificador do funcionário;
+- Faz a verificação dos dados passados e se os dados são compatíveis;
+- Dados não compatíveis, o processo é refeito;
 ### Conceitos da U1 Aplicados:
 - Estruturas condicionais: [onde foram usadas] // NÃO MODIFICADO
 - Estruturas de repetição: [onde foram usadas] // NÃO MODIFICADO
