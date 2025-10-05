@@ -1,6 +1,8 @@
 # Introdução a Técnicas de Programação - Unidade 1
 **Aluno**: Gabriel Sydney de Paiva
+
 **Matrícula**: 20250052853
+
 **Período**: 2025.2
 ## 📁 Estrutura do Projeto
 - `projeto/`: Projeto principal da unidade // NÃO MODIFICADO
