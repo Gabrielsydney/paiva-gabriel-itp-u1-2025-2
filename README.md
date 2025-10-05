@@ -55,7 +55,7 @@
 ## 🎯 Principais Aprendizados
 - Compilar códigos;
 - Execução de códigos no terminal com a linguagem C;
-- Estrutura da línguagem(sintaxe);
+- Estrutura da linguagem (sintaxe);
 ## 🔧 Ambiente de Desenvolvimento
 - **SO**: Windows
 - **Compilador**: GCC versão 15.2.0
