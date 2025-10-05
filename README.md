@@ -7,9 +7,9 @@
 - `listas/`: Soluções das listas de exercícios // NÃO MODIFICADO
 - `README.md`: Este arquivo // NÃO MODIFICADO
 ## 🚀 Projeto: SISTEMA DE PONTO POR IDENTIFICAÇÃO(NÚMERO ÚNICO)
-**Descrição**: Registra a entrada  e saída dos funcionários de uma empresa, além de armazenar as suas faltas.
-**Repositório**: [Link para repositório público] // NÃO MODIFICADO
-**Vídeo de Demonstração**: [Link para o vídeo] // NÃO MODIFICADO
+**Descrição**: Registra a entrada  e saída dos funcionários de uma empresa, além de armazenar as suas faltas.  
+**Repositório**: [Link para repositório público] // NÃO MODIFICADO  
+**Vídeo de Demonstração**: [Link para o vídeo] // NÃO MODIFICADO  
 ### Funcionalidades Implementadas:
 - [Lista das principais funcionalidades] // NÃO MODIFICADO
 ### Conceitos da U1 Aplicados:
