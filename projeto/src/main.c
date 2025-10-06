@@ -1,11 +1,10 @@
 /*
 BEM-VINDOS
 ALUNO: GABRIEL SYDNEY DE PAIVA
-NOME DO PROJETO: SISTEMA DE PONTO POR IDENTIFICAÇÃO
+NOME DO PROJETO: SISTEMA DE PONTO POR IDENTIFICAÇÃO 
 */
 #include <stdio.h>
 #include <string.h>
-#define MAX_NOMES 10
 
 //--------------|Parte do código volltado para as funções|--------------//
 // Função que apresenta o menu ao usuário
