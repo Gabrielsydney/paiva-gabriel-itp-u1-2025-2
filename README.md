@@ -16,10 +16,13 @@
 - Faz a verificação dos dados passados e se os dados são compatíveis;
 - Dados não compatíveis, o processo é refeito;
 ### Conceitos da U1 Aplicados:
-- Estruturas condicionais: [onde foram usadas] // NÃO MODIFICADO
-- Estruturas de repetição: [onde foram usadas] // NÃO MODIFICADO
-- Vetores: [como foram aplicados] // NÃO MODIFICADO
-- Funções: [quantas e suas responsabilidades] // NÃO MODIFICADO
+- Estruturas condicionais: Logo de início, foi utilizada para receber a funcionalidade que seria executada. Foram também utilizadas várias estruturas para diferentes condições para verificar se o nome e o código passado constavam nos dados armazenados.  Além de retornar um valor que concedia ou não acesso a empresa.
+
+- Estruturas de repetição: `Do-While:`Foi utilizada no início do código para tratar os dados que não fossem fidedignos. Caso não fossem compatíveis, o processo seria recomeçado, até que o contrário ocorresse. `While:`Foi utilizada para verificar se o código interno passado pelo usuário estava nos registros da empresa. `For:`Foi utilizada para verificar se o nome do usuário passado pelo usuário estava nos registros da empresa.
+  
+- Vetores: Foi utilizado vetores para armazenar o nome e código dos funcionários.
+  
+- Funções: Coloquei comentários em locais específicos para separar as funções das suas irmãs(as funções menos relevantes) e da main (Função Principal). A função principal contém trechos importantes no geral, e nele há presença de códigos que levam para as outras funções que executam tarefas únicas que retornam valores ou simplesmente apresentam um menu com as funcionalidades dos sistemas.
 ## 📚 Listas de Exercícios
 ### Semana 2 - Variáveis, Tipos e Operadores:
 - ✅ Problema 1: Calculadora de IMC
