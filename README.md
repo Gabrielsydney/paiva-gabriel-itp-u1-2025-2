@@ -9,7 +9,7 @@
 ## 🚀 Projeto: SISTEMA DE PONTO POR IDENTIFICAÇÃO(NÚMERO ÚNICO)
 **Descrição**: Registra a entrada  e saída dos funcionários de uma empresa, além de armazenar as suas faltas.    
 **Repositório**: https://github.com/Gabrielsydney/paiva-gabriel-itp-u1-2025-2   
-**Vídeo de Demonstração**: [Link para o vídeo] // NÃO MODIFICADO    
+**Vídeo de Demonstração**: https://www.youtube.com/watch?v=Ia1cuyvJ0Dc 
 ### Funcionalidades Implementadas:
 - Apresenta uma barra de menu com funcionalidades ao usuário;
 - Solicita o nome e o identificador do funcionário;
