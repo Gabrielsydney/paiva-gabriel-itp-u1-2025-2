@@ -81,7 +81,7 @@ A variável “listpresent” funciona como uma tabela com duas dimensões. Se e
 - ✅ Problema 1: Campo Agrícola
 - ✅ Problema 2: Sugestão de Amigos
 - ✅ Problema 3: Campeonato de Empates
-- ✅ Problema 4: Uma pechincha!
+- ✅ Problema 4: Uma pechincha
 ### Semana 10 - Ponteiros:
 - ✅ Problema 1: Soma de Vetores
 - ✅ Problema 2: Ocorrências no Vetor
