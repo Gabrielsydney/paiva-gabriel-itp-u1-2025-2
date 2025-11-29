@@ -90,8 +90,8 @@ A variável “listpresent” funciona como uma tabela com duas dimensões. Se e
 - Compilar códigos;
 - Execução de códigos no terminal com a linguagem C;
 - Estrutura da linguagem (sintaxe);
-- Ponteiros
-- Alocação Dinâmica
+- Ponteiros;
+- Alocação Dinâmica;
 ## 🔧 Ambiente de Desenvolvimento
 - **SO**: Windows
 - **Compilador**: GCC versão 15.2.0
