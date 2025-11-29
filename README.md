@@ -3,7 +3,7 @@
 **Matrícula**: 20250052853  
 **Período**: 2025.2  
 ## 📁 Estrutura do Projeto
-- `projeto/`: Projeto principal da unidade 
+- `projeto/src`: Projeto principal da unidade 
 - `listas/`: Soluções das listas de exercícios 
 - `relatorios/`: Relatório técnico do projeto 
 - `README.md`: Este arquivo 
