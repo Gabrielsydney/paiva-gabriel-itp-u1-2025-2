@@ -1,7 +1,7 @@
 # Instrução de Compilação (Passo a Passo)
 
 ## Instações Necessárias
-- instale o compilador GCC versão 15.2.0;
+- Instale o compilador GCC versão 15.2.0;
 - Utilize a IDE VScode;
 - Instale a extensão para a linguagem C/C++ da Microsoft na IDE;
 - Crie um arquivo com a extensão `.c`;
