@@ -5,6 +5,7 @@
 ## 📁 Estrutura do Projeto
 - `projeto/`: Projeto principal da unidade 
 - `listas/`: Soluções das listas de exercícios 
+- `relatorios/`: Relatório técnico do projeto 
 - `README.md`: Este arquivo 
 ## 🚀 Projeto: SISTEMA DE PONTO POR IDENTIFICAÇÃO(NÚMERO ÚNICO)
 **Descrição**: Registra a entrada  e saída dos funcionários de uma empresa, além de armazenar as suas faltas.    
@@ -29,7 +30,7 @@
 - ✅ Problema 2: Conversão de temperatura
 - ✅ Problema 3: Cálculo de juros compostos
 - ✅ Problema 4: Operações aritméticas básicas
-- ### Semana 3 - Condicionais:
+### Semana 3 - Condicionais:
 - ✅ Problema 1: Classificação de IMC
 - ✅ Problema 2: Calculadora de energia elétrica
 - ✅ Problema 3: Sistema de notas
