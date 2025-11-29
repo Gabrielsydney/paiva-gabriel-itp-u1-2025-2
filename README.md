@@ -11,7 +11,7 @@
 **Descrição**: Registra a entrada dos funcionários de uma empresa e também apresenta os funcionários presentes.    
 **Repositório**: https://github.com/Gabrielsydney/paiva-gabriel-itp-u1-2025-2   
 **Vídeo de Demonstração - U1**: https://www.youtube.com/watch?v=Ia1cuyvJ0Dc                                                                                                                                          
-**Vídeo de Demonstração - U2**:  
+**Vídeo de Demonstração - U2**: https://www.youtube.com/watch?v=gmTQFX44I8w
 ### Funcionalidades Implementadas:
 - Uma nova opção na lista de opções foi acrescentada;
 - Armazena o nome dos funcionários presentes;
