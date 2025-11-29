@@ -10,7 +10,7 @@
 ## 🚀 Projeto: SISTEMA DE PONTO POR IDENTIFICAÇÃO(NÚMERO ÚNICO)
 **Descrição**: Registra a entrada dos funcionários de uma empresa e também apresenta os funcionários presentes.    
 **Repositório**: https://github.com/Gabrielsydney/paiva-gabriel-itp-u1-2025-2   
-**Vídeo de Demonstração - U1**: https://www.youtube.com/watch?v=Ia1cuyvJ0Dc 
+**Vídeo de Demonstração - U1**: https://www.youtube.com/watch?v=Ia1cuyvJ0Dc                                                                                                                                          
 **Vídeo de Demonstração - U2**:  
 ### Funcionalidades Implementadas:
 - Uma nova opção na lista de opções foi acrescentada;
@@ -29,9 +29,7 @@
 ### Conceitos da U2 Aplicados:
 - Strings: foram usados os nomes dos funcionários da empresa; Na parte de escrever na tela o nome dos funcionários que estão presentes naquele dia. No projeto houve uma ajuda da função “strcmp”, utilizada para comparar as strings.
 
-- Estruturas de Repetições Aninhadas: utilizei um Do-While dentro de um While, com o objetivo de que a estrutura externa recebesse uma opção para continuar o processo, ou que finalizasse ali mesmo. A estrutura interna teria que receber os dados da segunda parte do código, caso não alcançasse o esperado o código pararia ali mesmo. 
-
-O While estava mais preocupado em garantir que todos os funcionários registrassem ponto e também que o código não fosse encerrado, escolhendo a opção 3. O Do/While (que estava dentro do while) garante que as pessoas tivessem tentativas para registrar o ponto e que as funções recebessem os valores por uma quantidade x de vezes.
+- Estruturas de Repetições Aninhadas: utilizei um Do-While dentro de um While, com o objetivo de que a estrutura externa recebesse uma opção para continuar o processo, ou que finalizasse ali mesmo. A estrutura interna teria que receber os dados da segunda parte do código, caso não alcançasse o esperado o código pararia ali mesmo. O While estava mais preocupado em garantir que todos os funcionários registrassem ponto e também que o código não fosse encerrado, escolhendo a opção 3. O Do/While (que estava dentro do while) garante que as pessoas tivessem tentativas para registrar o ponto e que as funções recebessem os valores por uma quantidade x de vezes.
 Como foram utilizadas as Matrizes no projeto? 
 A variável “listpresent” funciona como uma tabela com duas dimensões. Se eu colocasse apenas listpresent[0] retornaria o nome da pessoa, mas se eu colocasse listpresent[0][0], logo retornaria a primeira letra do nome.
  
