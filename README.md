@@ -1,4 +1,4 @@
-# Introdução a Técnicas de Programação - Unidade 1
+# Introdução a Técnicas de Programação - Unidade 1 e 2
 **Aluno**: Gabriel Sydney de Paiva  
 **Matrícula**: 20250052853  
 **Período**: 2025.2  
