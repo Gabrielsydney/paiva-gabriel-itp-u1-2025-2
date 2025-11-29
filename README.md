@@ -5,7 +5,7 @@
 ## 📁 Estrutura do Projeto
 - `projeto/src`: Projeto principal da unidade 
 - `listas/`: Soluções das listas de exercícios 
-- `relatorios/`: Relatório técnico do projeto 
+- `relatorios/`: Relatórios técnicos do projeto 
 - `README.md`: Este arquivo 
 ## 🚀 Projeto: SISTEMA DE PONTO POR IDENTIFICAÇÃO(NÚMERO ÚNICO)
 **Descrição**: Registra a entrada dos funcionários de uma empresa e também apresenta os funcionários presentes.    
